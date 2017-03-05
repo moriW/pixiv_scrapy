@@ -35,7 +35,7 @@ dependency:
 2. requests
 3. python 2.7.10
 
-It is multi
+It is multi-threading so , yeah pretty quick
 
 PS:
 It couldn't work via python 3 , lxml have a encoder error. [reason](https://github.com/lorien/grab/issues/199)
